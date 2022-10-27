@@ -1,32 +1,11 @@
 ### Hi there 👋
 
-<!--
-**LucasDallier/LucasDallier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-
-<div align="center">
-  <a href="https://github.com/LucasDallier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDallier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDallier&layout=compact&theme=tokyonight"/>
-</div>
- -->
- 
  
  <div align="center">
    <a href="https://github.com/alexandrejuniorc">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDallier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDallier&layout=compact&theme=tokyonight"/>
  </div>
-
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Lucas%Dallier-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-dallier-arraes-68708a1b3//)](https://www.linkedin.com/in/lucas-dallier-arraes-68708a1b3//) 
+[![Gmail Badge](https://img.shields.io/badge/-devlucasdallier@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlucasdallier@gmail.com)](mailto:devlucasdallier@gmail.com)
